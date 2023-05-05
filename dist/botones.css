@@ -1,0 +1,33 @@
+#catalogo {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .producto {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .producto img {
+    width: 100%;
+  }
+  
+  #filtro {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .btn-filtro {
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    cursor: pointer;
+  }
+  
+  .btn-filtro.active {
+    background-color: #ccc;
+  }

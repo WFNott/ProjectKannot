@@ -1,0 +1,1 @@
+Profesor solo Arrastre la carpeta a Sublime Text, ya que use varios pedazos de codigo pertenecientes a BOOSTRAP, y mandarlos en un editor de texto seria practicamente molesto de leer y transcribir
